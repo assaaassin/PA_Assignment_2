@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared  -o libStatic_Iffi.so CMakeFiles/Static_Iffi.dir/Static_Iffi.cpp.o  -L/usr/lib/llvm-3.8/lib 

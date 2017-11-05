@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared  -o libconst_prop.so CMakeFiles/const_prop.dir/mycp_pass.cpp.o  -L/usr/lib/llvm-3.8/lib 

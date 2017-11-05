@@ -1,0 +1,54 @@
+miniz.c version: 9.1.15
+Compressed from 490 to 81 bytes
+Decompressed from 81 to 490 bytes
+Success.
+Func Name: mz_adler32
+Bias: 0.955882, Taken: 65, Total: 68
+Func Name: mz_deflateInit2
+Bias: 0.222222, Taken: 2, Total: 9
+Func Name: tdefl_init
+Bias: 0.000000, Taken: 0, Total: 1
+Func Name: mz_deflateEnd
+Bias: 1.000000, Taken: 2, Total: 2
+Func Name: mz_deflate
+Bias: 0.500000, Taken: 5, Total: 10
+Func Name: tdefl_compress
+Bias: 0.541667, Taken: 13, Total: 24
+Func Name: mz_deflateBound
+Bias: 1.000000, Taken: 1, Total: 1
+Func Name: mz_compress2
+Bias: 0.000000, Taken: 0, Total: 3
+Func Name: mz_inflateInit2
+Bias: 0.400000, Taken: 2, Total: 5
+Func Name: mz_inflate
+Bias: 0.538462, Taken: 7, Total: 13
+Func Name: mz_inflateEnd
+Bias: 1.000000, Taken: 2, Total: 2
+Func Name: mz_uncompress
+Bias: 0.000000, Taken: 0, Total: 3
+Func Name: main
+Bias: 0.222222, Taken: 2, Total: 9
+Func Name: tdefl_create_comp_flags_from_zip_params
+Bias: 0.285714, Taken: 2, Total: 7
+Func Name: tdefl_flush_output_buffer
+Bias: 0.750000, Taken: 3, Total: 4
+Func Name: tdefl_flush_block
+Bias: 0.666667, Taken: 38, Total: 57
+Func Name: tdefl_compress_block
+Bias: 0.000000, Taken: 0, Total: 1
+Func Name: tdefl_optimize_huffman_table
+Bias: 0.756056, Taken: 1342, Total: 1775
+Func Name: tdefl_radix_sort_syms
+Bias: 0.979381, Taken: 855, Total: 873
+Func Name: tdefl_calculate_minimum_redundancy
+Bias: 0.650246, Taken: 264, Total: 406
+Func Name: tdefl_huffman_enforce_max_code_size
+Bias: 0.888889, Taken: 96, Total: 108
+Func Name: tdefl_start_dynamic_block
+Bias: 0.409742, Taken: 715, Total: 1745
+Func Name: tdefl_compress_lz_codes
+Bias: 0.704082, Taken: 207, Total: 294
+Func Name: tdefl_compress_normal
+Bias: 0.611734, Taken: 2127, Total: 3477
+Func Name: tinfl_decompress
+Bias: 0.863445, Taken: 4521, Total: 5236

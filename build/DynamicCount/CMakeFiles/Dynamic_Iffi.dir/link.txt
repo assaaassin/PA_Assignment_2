@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared  -o libDynamic_Iffi.so CMakeFiles/Dynamic_Iffi.dir/Dynamic_Iffi.cpp.o  -L/usr/lib/llvm-3.8/lib 
